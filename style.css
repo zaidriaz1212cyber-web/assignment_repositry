@@ -1,0 +1,21 @@
+*{
+    background-color: #fff;
+    text-align: center;
+}
+#h1{
+    color: royalblue;
+}
+#h2{
+    color: grey;
+}
+#p{
+    font-weight: 300;
+    color: gray;
+}
+.div{
+    width: 500px;
+    height: 150px;
+    background-color: sandybrown;
+    margin-left: 450px;
+
+}
